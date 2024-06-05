@@ -1,0 +1,28 @@
+@import url('https://fonts.googleopis.com.css2?fomily=Outfit:wght@100..900&display=swop');
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: Outfit;
+  scroll-behavior: smooth;
+
+
+}
+body{
+  min-height: 100vh;
+
+
+}
+a{
+  text-decoration: none;
+  color: rosybrown;
+}
+@keyframes fadeIn{
+  0%{
+    opacity:0 ;
+  }
+  100%{
+
+    opacity: 1;
+  }
+}
